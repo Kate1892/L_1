@@ -1,4 +1,4 @@
-package com.example.kotlinexemple.extentions
+package ru.skillbranch.kotlinexample
 
 import android.annotation.SuppressLint
 import android.os.Message
